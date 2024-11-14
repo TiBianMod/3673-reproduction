@@ -11,6 +11,7 @@
   "dependencies": {
     "@bull-board/api": "^6.5.0",
     "@bull-board/hono": "^6.5.0",
-    "bullmq": "^5.26.1"
+    "bullmq": "^5.26.1",
+    "hono": "^4.6.10"
   }
 }
